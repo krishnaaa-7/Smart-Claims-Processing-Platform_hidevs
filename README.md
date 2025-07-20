@@ -3,6 +3,12 @@
 
 This project implements an intelligent system for insurance claims processing using OCR, NLP, and zero-shot classification. It automates document handling, classifies claims by type and priority, routes them intelligently, and checks for policy compliance.
 
+## Sreeram Venkata Phani Kiranmai
+mailid: phanisreeram777@gmail.com
+phone no:9121559288
+resume link:https://docs.google.com/document/d/16JVcxJZPFPDeDS_uN4ZzbGJVMz9pijCj/edit?usp=drive_link&ouid=117858433810242294174&rtpof=true&sd=true
+linkedin:https://www.linkedin.com/in/sreeram-venkata-phani-kiranmai-461856319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 ## Features
 
 ### Document Processing
@@ -79,6 +85,7 @@ pip install pytesseract transformers huggingface_hub
 
 
 ---SREERAM VENKATA PHANI KIRANMAI---
+
 
 
 
