@@ -25,6 +25,8 @@ This project implements an intelligent system for insurance claims processing us
   - Property → Fire Damage Team
 - Urgent claims are routed to a high-priority queue automatically.
 
+
+
 ### Policy Compliance
 - Uses a configurable JSON file (`policy_rules.json`) for exclusions and limits.
 - Flags violations such as:
@@ -33,14 +35,6 @@ This project implements an intelligent system for insurance claims processing us
   - Expired policies
   - Intentional damage
 - Checks if the claim amount exceeds the policy limit.
-
-## Dependencies
-
-Install the required packages before running the notebook:
-
-```bash
-sudo apt install tesseract-ocr -y
-pip install pytesseract transformers huggingface_hub
 
 ## Hugging Face Authentication
 You must log in to Hugging Face to use the zero-shot classification model:
@@ -74,9 +68,25 @@ Predicted Claim Type: Auto Claim
 Routing Decision: Route to Collision Specialist
 Compliance Status: Passed Compliance
 
-## Future Improvements
--Add support for PDF and DOCX document formats
--Integrate with backend claim systems
--Build a web-based UI using Streamlit or Gradio
--Implement analytics and logging functionality
+
+## Dependencies
+
+Install the required packages before running the notebook:
+
+```bash
+sudo apt install tesseract-ocr -y
+pip install pytesseract transformers huggingface_hub
+
+
+---SREERAM VENKATA PHANI KIRANMAI---
+
+
+
+
+
+
+
+
+
+
 
